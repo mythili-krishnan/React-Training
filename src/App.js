@@ -5,6 +5,10 @@ function App() {
   return (
     <div className="App">
       <CButton></CButton>
+    <FButton />
+    <FButton />
+    <FButton />
+    
     </div>
   );
 }
